@@ -57,3 +57,6 @@
                 echo "Kedua nilai false";
             }
             ?>
+    </div>
+</body>
+</html>
