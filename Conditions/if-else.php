@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operator</title>
+    <title>conditions</title>
     <link rel="stylesheet" href="../type data/style.css">
 </head>
 <body>
@@ -14,10 +14,13 @@
     </div>
     <div class="container">
         <h1>Belajar PHP</h1>
-        <h2>Conditions</h2>
+        <h2>if-else</h2>
         <hr>
             <?php
             // Contoh 2: If-else if-else statement
+            
+            $nilai = 75;
+
             if ($nilai >= 90) {
                 echo "Nilai Anda $nilai, Anda mendapatkan nilai A.";
             } elseif ($nilai >= 80) {

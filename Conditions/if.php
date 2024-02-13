@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operator</title>
+    <title>conditions</title>
     <link rel="stylesheet" href="../type data/style.css">
 </head>
 <body>
@@ -14,7 +14,7 @@
     </div>
     <div class="container">
         <h1>Belajar PHP</h1>
-        <h2>Conditions</h2>
+        <h2>if</h2>
         <hr>
             <?php
 
